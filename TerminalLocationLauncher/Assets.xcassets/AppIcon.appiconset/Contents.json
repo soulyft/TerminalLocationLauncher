@@ -26,6 +26,7 @@
       "size" : "128x128"
     },
     {
+      "filename" : "Ota app icon-256.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "128x128"
@@ -36,6 +37,7 @@
       "size" : "256x256"
     },
     {
+      "filename" : "Ota app icon-512.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "256x256"
@@ -46,6 +48,7 @@
       "size" : "512x512"
     },
     {
+      "filename" : "Ota app icon.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "512x512"
